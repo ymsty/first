@@ -25,10 +25,7 @@
         label.textColor=[UIColor blueColor];
     }
     
-    
-    
-    
-    
+
 }
 
 
